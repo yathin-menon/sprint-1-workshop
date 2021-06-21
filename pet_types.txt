@@ -3,3 +3,5 @@ Dog
 Monkey
 Fish
 Turtle
+Rock
+Parrot

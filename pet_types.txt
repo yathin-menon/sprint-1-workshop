@@ -1,7 +1,4 @@
-Cat
-Dog
-Monkey
-Fish
-Turtle
-Rock
-Parrot
+Stegosaurus
+Ankylosaurus
+Diplodocus
+Tyrannosaurus Rex

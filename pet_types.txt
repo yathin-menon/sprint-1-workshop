@@ -1,7 +1,5 @@
-Cat
+Stegosaurus
+Ankylosaurus
+Diplodocus
+Tyrannosaurus Rex
 Dog
-Monkey
-Fish
-Turtle
-Rock
-Parrot

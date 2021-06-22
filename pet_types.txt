@@ -2,3 +2,4 @@ Stegosaurus
 Ankylosaurus
 Diplodocus
 Tyrannosaurus Rex
+Dog
